@@ -1,0 +1,84 @@
+@charset "utf-8";
+body {
+	font-family: "Arial Narrow", sans-serif; !important
+}
+
+
+/*Template 1*/
+#puttymobile-temp1 img{
+	display: block;
+	width: 80%;
+	padding-top: 15%;
+	margin:auto;
+	
+}
+#puttymobile-temp1 a:active,#puttymobile-temp1 a:visited,#puttymobile-temp1 a:hover,#puttymobile-temp1 a:link{
+	color: white;
+	text-decoration: none;
+}
+
+/*Template 2*/
+#puttymobile-temp2 img{
+	display: block;
+	width: 70%;
+	margin:auto;
+}
+
+#puttymobile-temp2 a:active,#puttymobile-temp2 a:visited,#puttymobile-temp2 a:hover,#puttymobile-temp2 a:link{
+	color: white;
+	text-decoration: none;
+}
+
+/*Template 3*/
+#puttymobile-temp3 img{
+	display: block;
+	width: 80%;
+	padding-top: 15%;
+	margin:auto;
+	
+}
+#puttymobile-temp3 a:active,#puttymobile-temp3 a:visited,#puttymobile-temp3 a:hover,#puttymobile-temp3 a:link{
+	color: white;
+	text-decoration: none;
+}
+
+
+/*Template 4*/
+#puttymobile-temp4 img{
+	display: block;
+	width: 80%;
+	padding-top: 20%;
+	margin:auto;
+	
+}
+#puttymobile-temp4 a:active,#puttymobile-temp4 a:visited,#puttymobile-temp4 a:hover,#puttymobile-temp4 a:link{
+	color: white;
+	text-decoration: none;
+}
+
+/*Template 5*/
+#puttymobile-temp5 img{
+	display: block;
+	width: 80%;
+	padding-top: 35%;
+	margin:auto;
+	
+}
+#puttymobile-temp5 a:active,#puttymobile-temp5 a:visited,#puttymobile-temp5 a:hover,#puttymobile-temp5 a:link{
+	color: white;
+	text-decoration: none;
+}
+
+
+
+
+/*ALL*/
+
+
+.puttymobile-menu-title{
+	text-align: center;
+	font-family: "Arial Narrow", sans-serif;
+	font-weight: bolder;
+	text-transform: capitalize;
+}
+
